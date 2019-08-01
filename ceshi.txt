@@ -1,5 +1,11 @@
 hello,test
 
+
 git add a.txt
 git commit -m "第一次发版本"
 git commit -m "第二次发版本"
+
+你好
+添加了测试文字
+hello,world!
+
